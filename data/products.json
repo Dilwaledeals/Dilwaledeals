@@ -1,0 +1,30 @@
+[
+  {
+    "id": "DD-BAG-001",
+    "category": "bags",
+    "name": "Premium Sling Bag",
+    "brand": "Dilwale Deals",
+    "price": 1499,
+    "mrp": 2999,
+    "discount": "50%",
+    "stock": true,
+    "featured": true,
+    "newArrival": true,
+    "image": "products/bags/bag-001.jpg",
+    "description": "Premium quality sling bag."
+  },
+  {
+    "id": "DD-WAT-001",
+    "category": "watches",
+    "name": "Luxury Watch",
+    "brand": "Dilwale Deals",
+    "price": 1999,
+    "mrp": 3999,
+    "discount": "50%",
+    "stock": true,
+    "featured": true,
+    "newArrival": true,
+    "image": "products/watches/watch-001.jpg",
+    "description": "Premium quality watch."
+  }
+]
